@@ -35,9 +35,9 @@ Let's connect across professional and social media spaces to share ideas, datase
 **Let's code, connect, and decode nature together!**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alikarkour112&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikarkour112&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=alikarkour112&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 <br />
@@ -50,7 +50,7 @@ Let's connect across professional and social media spaces to share ideas, datase
       </tr>
   </table>
 </a>
-<a href="https://github.com/vinitshahdeo">
+<a href="https://github.com/alikarkour112">
   <table align="right">
       <tr>
           <td>
