@@ -1,91 +1,47 @@
 <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
-<a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
-<a href="https://peerlist.io/vinitshahdeo"><img src="https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist"/></a>
-<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
-<a href="https://github.com/vinitshahdeo?tab=repositories"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-<a href="https://leetcode.com/u/vinitshahdeo/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow"/></a>
+<a href="https://github.com/vinitshahdeo"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://github.com/vinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 </p>
 
-Glad to see you here! I'm Vinit Shahdeo, a **Software Engineer** with a strong passion for **JavaScript** and **open-source**. I'm honored to be recognized thrice as a [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) from India! With a knack for building **event-driven architecture**, I balance code with **badminton** 🏸 and find peace in a sip of **tea** 🍵 and **poetry** 🎙️. 
+Glad to see you here! I'm Ali Muhammad, a **Microbiologist** with a deep passion for **Bioinformatics** and **Genome Analysis**. I focus on bridging the gap between molecular biology and computational software architecture. I specialize in parsing complex data systems, analyzing microbial genomic sequences, and simplifying high-level scientific concepts through interactive platforms and clear visual engineering. 🧪🧬
 
-Currently, I’m leading engineering efforts at an AI startup ([zzazz](https://zzazz.com/)), building scalable microservices and AI-powered platforms to turn online content into valuable, tradable assets. Before this, I built core banking platform at [Novo](https://www.novo.co/) as a Senior Backend Engineer, and earlier spent 4.5 wonderful years at [Postman](https://www.postman.com/). My notable contri<h1 align='center'>👋 Hello!</h1>
-<p align='center'>
-<a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
-<a href="https://peerlist.io/vinitshahdeo"><img src="https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist"/></a>
-<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
-<a href="https://github.com/vinitshahdeo?tab=repositories"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-<a href="https://leetcode.com/u/vinitshahdeo/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow"/></a>
-</p>
+Currently, I'm expanding my footprint in molecular research—with seven scientific papers published in international peer-reviewed journals—while deploying technology to reshape scientific communication. As a global lecturer on Udemy, I have taught specialized courses to over 8,000 students from 145 countries. My work centers heavily around building custom data tracking tools and adaptive web evaluation platforms to maximize student learning metrics. When I'm not writing Python scripts or tracking microbial data, I dedicate my focus to scientific illustration and curriculum design. 💻📊
 
-Glad to see you here! I'm Vinit Shahdeo, a **Software Engineer** with a strong passion for **JavaScript** and **open-source**. I'm honored to be recognized thrice as a [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) from India! With a knack for building **event-driven architecture**, I balance code with **badminton** 🏸 and find peace in a sip of **tea** 🍵 and **poetry** 🎙️. 
-
-Currently, I’m leading engineering efforts at an AI startup ([zzazz](https://zzazz.com/)), building scalable microservices and AI-powered platforms to turn online content into valuable, tradable assets. Before this, I built core banking plabutions at Postman include building [Interceptor](https://learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/) and [Integrations](https://www.postman.com/product/integrations/). Discover more about my [Postman journey](https://vinitshahdeo.dev/saying-goodbye-to-postman) and [valuable lessons](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman). I've had the privilege of mentoring in [Google Summer of Code](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/) (**GSoC**) at [AsyncAPI](https://github.com/asyncapi) and [Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/). You can find me at [`@vinitshahdeo-novo`](https://github.com/vinitshahdeo-novo) for my work in Novo.
-
-[![Github Badge](https://img.shields.io/badge/-@vinitshahdeo--novo-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/vinitshahdeo-novo) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-vinitshahdeo-orange.svg?style=flat&logo=postman)](https://www.postman.com/vinitshahdeo) [![NPM - Vinit Shahdeo](https://img.shields.io/badge/npm-vinitshahdeo-231F20?logo=npm)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-vinitshahdeo-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@vinit_shahdeo) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
-
-### Featured blogs/articles
-
-- 📖 [A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
-- 🚀 [Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
-- 💻 [If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
-- 🌟 [Vinit Shahdeo: From a GitHub User to a GitHub Star](https://technovans.com/vinit-shahdeo-from-a-github-user-to-a-github-star)
-- 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
-
-### Projects
-
-Apart from the pinned repositories, I have built:
-- 🛡️ [Peerlist README Badges](https://github.com/vinitshahdeo/peerlist-readme-badge/) *(included in [Peerlist official tools](https://peerlist.io/tools/readme-badge))*
-- 🔍 [OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
-- 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
-- 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
-- 🏆 [Stellar Dev Portfolio](https://github.com/vinitshahdeo/portfolio) *(published as an [Astro theme](https://astro.build/themes/details/stellar-astro-dev-portfolio))*
 
 ### Tech Stack
 
-I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
+I mostly work with **Python**, specifically utilizing libraries inside **Jupyter Notebook** for biological data processing, genomics, and sequence alignment. For web-based platforms and visual assets, I develop with **JavaScript**, **HTML5**, and **CSS3**, backed by advanced **Excel** systems for data cross-referencing.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-ea2845?logo=nestjs&logoColor=white)
-![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Open Source Initiatives
+### Science Communication Initiatives
 
-During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I initiated a program aimed at [helping beginners kickstart their journey into open-source](https://vinitshahdeo.dev/hacktoberfest-2021), impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for [#50DaysOfJavaScript](https://50daysofjavascript.netlify.app/), a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a **participant**, **mentor**, or a **community partner**.
-
-[![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) 
-
-<!--
-[![50DaysOfJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=50DaysOfJavaScript&theme=gruvbox)](https://github.com/vinitshahdeo/50DaysOfJavaScript)
--->
+I focus on making complex scientific knowledge open and easily digestible. Through my global Udemy platform, I actively mentor upcoming researchers on navigating microbial analytics and baseline bioinformatics. Currently, I am seeking collaborations to build open-source web interactives to help beginners step into computational genomics and automated science platforms. If you are an educator, developer, or fellow researcher, let's collaborate!
 
 ### Let's connect!
 
-Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+Let's connect across professional and social media spaces to share ideas, datasets, and modern learning strategies:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Website](https://img.shields.io/badge/vinitshahdeo.com-31473A?logo=netlify)](https://vinitshahdeo.com/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) [![Blog](https://img.shields.io/badge/vinitshahdeo.dev-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev) [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://vinitshahdeo.substack.com/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Ali%20Muhammad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) [![Instagram](https://img.shields.io/badge/Instagram-Ali_Muhammad-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME) [![X (Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://x.com/YOUR_TWITTER_USERNAME) [![YouTube](https://img.shields.io/badge/YouTube-Ali_Muhammad-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo)
 
-**Let's code, connect, and create awesome things together!**
+**Let's code, connect, and decode nature together!**
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 <br />
-<a href="https://www.google.com/search?q=Vinit+Shahdeo">
+<a href="https://www.google.com/search?q=Ali+Muhammad+Bioinformatics">
   <table align="left">
       <tr>
           <td>
@@ -94,11 +50,11 @@ Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's 
       </tr>
   </table>
 </a>
-<a href="https://vinitshahdeo.dev">
+<a href="https://github.com/vinitshahdeo">
   <table align="right">
       <tr>
           <td>
-            🌐 &nbsp;&nbsp;Explore my blog!
+            🌐 &nbsp;&nbsp;Explore my repositories!
           </td>
       </tr>
   </table>
