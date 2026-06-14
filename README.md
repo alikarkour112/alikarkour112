@@ -37,7 +37,7 @@ Let's connect across professional and social media spaces to share ideas, datase
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Ali%20Muhammad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/ali-m-karkour-lab-science-and-tests)
 [![Instagram](https://img.shields.io/badge/Instagram-Ali_Muhammad-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/alikarkour964?utm_source=qr&igsh=MTV4OHNydXBoZWFkYQ==)
-[![X (Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://x.com/AliMKarkou9493)
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/AliMKarkou9493?style=social)](https://x.com/AliMKarkou9493)
 [![YouTube](https://img.shields.io/badge/YouTube-Ali_Muhammad-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@biologyscience76?si=EMk4teXjT7VRiVJo)
 [![GitHub followers](https://img.shields.io/github/followers/alikarkour112.svg?label=Follow%20@alikarkour112&style=social)](https://github.com/alikarkour112)
 [![Behance](https://img.shields.io/badge/Behance-Ali_Muhammad-1769ff?logo=behance&logoColor=white)](https://www.behance.net/alikarkour2)
