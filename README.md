@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/alikarkour112">
-    <img src="https://img.shields.io/github/stars/alikarkour112?style=plastic&logo=github&label=Total%20Stars&color=green"/>
+    <img src="https://img.shields.io/github/stars/alikarkour112?style=plastic&logo=github&label=Total%20Stars&color=green" height="26"/>
   </a>
   <a href="https://github.com/alikarkour112">
-    <img src="https://api.visitorbadge.io/api/visitors?path=alikarkour112%2Falikarkour112&label=Total%20Visitors&countColor=%237B1FA2&style=plastic"/>
+    <img src="https://komarev.com/ghpvc/?username=alikarkour112&style=plastic&label=Total+Visitors&color=7B1FA2" height="26"/>
   </a>
 </p>
 
