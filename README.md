@@ -30,7 +30,14 @@ I focus on making complex scientific knowledge open and easily digestible. Throu
 
 Let's connect across professional and social media spaces to share ideas, datasets, and modern learning strategies:
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Ali%20Muhammad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) [![Instagram](https://img.shields.io/badge/Instagram-Ali_Muhammad-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME) [![X (Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://x.com/YOUR_TWITTER_USERNAME) [![YouTube](https://img.shields.io/badge/YouTube-Ali_Muhammad-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL) [![GitHub followers](https://img.shields.io/github/followers/alikarkour112.svg?label=Follow%20@alikarkour112&style=social)](https://github.com/alikarkour112)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Ali%20Muhammad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-Ali_Muhammad-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME)
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://x.com/YOUR_TWITTER_USERNAME)
+[![YouTube](https://img.shields.io/badge/YouTube-Ali_Muhammad-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL)
+[![GitHub followers](https://img.shields.io/github/followers/alikarkour112.svg?label=Follow%20@alikarkour112&style=social)](https://github.com/alikarkour112)
+[![Behance](https://img.shields.io/badge/Behance-Ali_Muhammad-1769ff?logo=behance&logoColor=white)](https://www.behance.net/YOUR_BEHANCE_USERNAME)
+[![Udemy](https://img.shields.io/badge/Udemy-Ali_Muhammad-A435F0?logo=udemy&logoColor=white)](https://www.udemy.com/user/YOUR_UDEMY_USERNAME)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Ali_Muhammad-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 
 **Let's code, connect, and decode nature together!**
 
