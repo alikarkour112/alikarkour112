@@ -35,7 +35,7 @@ I focus on making complex scientific knowledge open and easily digestible. Throu
 
 Let's connect across professional and social media spaces to share ideas, datasets, and modern learning strategies:
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Ali%20Muhammad&logo=linkedin&style=flat&color=blue)]([https://www.linkedin.com/in/ali-m-karkour-lab-science-and-tests])
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Ali%20Muhammad&logo=linkedin&style=flat&color=blue)]([https://www.linkedin.com](https://www.linkedin.com/in/ali-m-karkour-lab-science-and-tests)/in/alikarkour112)
 [![Instagram](https://img.shields.io/badge/Instagram-Ali_Muhammad-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://x.com/YOUR_TWITTER_USERNAME)
 [![YouTube](https://img.shields.io/badge/YouTube-Ali_Muhammad-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL)
