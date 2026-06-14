@@ -1,7 +1,12 @@
 <h1 align='center'> Hello!👋 I am Ali Muhammed </h1>
-<p align='center'>
-<a href="https://github.com/alikarkour112"><img src="https://img.shields.io/github/stars/alikarkour112?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-<a href="https://github.com/alikarkour112"><img src="https://api.visitorbadge.io/api/visitors?path=alikarkour112%2Falikarkour112&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+
+<p align="center">
+  <a href="https://github.com/alikarkour112">
+    <img src="https://img.shields.io/github/stars/alikarkour112?style=plastic&logo=github&label=Total%20Stars&color=green"/>
+  </a>
+  <a href="https://github.com/alikarkour112">
+    <img src="https://api.visitorbadge.io/api/visitors?path=alikarkour112%2Falikarkour112&label=Total%20Visitors&countColor=%237B1FA2&style=plastic"/>
+  </a>
 </p>
 
 Glad to see you here! I'm Ali Muhammad, a **Microbiologist** with a deep passion for **Bioinformatics** and **Genome Analysis**. I focus on bridging the gap between molecular biology and computational software architecture. I specialize in parsing complex data systems, analyzing microbial genomic sequences, and simplifying high-level scientific concepts through interactive platforms and clear visual engineering. 🧪🧬
